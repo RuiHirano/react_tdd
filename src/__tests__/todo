@@ -1,0 +1,15 @@
+
+Login
+✔ Loginコンポーネントのレンダリングが可能 @done(21-02-13 00:16)
+EmailField
+    ✔ Emailフィールドが存在する @done(21-02-13 19:44)
+    ✔ Emailラベルが存在する @done(21-02-13 19:44)
+    ✔ Emailに初期値ではhelperTextが表示されない @done(21-02-13 19:44)
+    ✔ Emailがメールアドレスでない場合”Emailを入力してください”と表示 @done(21-02-13 19:44)
+    ✔ Emailが30文字以上の場合”Emailが長すぎます”と表示 @done(21-02-13 19:44)
+
+PasswordField
+    ✔ Passwordフィールドが存在する @done(21-02-13 19:43)
+    ✔ Passwordラベルが存在する  @done(21-02-13 19:43)
+    ✔ Passwordに初期値ではhelperTextが表示されない @done(21-02-13 19:43)
+    ✔ Passwordが8文字以下の場合”パスワードが短すぎます”と表示 @done(21-02-13 19:43)
